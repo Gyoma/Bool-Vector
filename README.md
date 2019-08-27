@@ -1,3 +1,3 @@
 # Bool-Vector by Gyoma
 
-It's a bool vector of arbitrary length.
+It's bool vector of arbitrary length.
